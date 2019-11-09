@@ -1,0 +1,14 @@
+final int SCREENX=400;
+final int SCREENY=400;
+final int PIXELWIDTH=30;
+final int PIXELHEIGHT=25;
+final int MARGIN=30;
+final int LEFT = 1;
+final int RIGHT = 2;
+final int GAP=10;
+final int PADDLEHEIGHT = 10;
+final int PADDLEWIDTH = 50;
+final int BULLETWIDTH = 5;
+final int BULLETHEIGHT = 10;
+final int LASER = 7;
+final int ASSISTANT = 8;
